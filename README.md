@@ -1,9 +1,11 @@
 
-### Hi there, I'm Dima Simonyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Dima Simonyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=simadimonyan)
 
 <img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218"/>
 
-<br>📊 **Let's talk about personal stuffs:**
+As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+📊 **Let's talk about Personal Stuffs:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Blockchain and Android Developing;
 - 💬 Ask me about anything, I am happy to help;
