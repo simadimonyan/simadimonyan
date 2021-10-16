@@ -5,6 +5,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218" />
 
+<br>
+
 📊 **Let's talk about personal stuffs:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Blockchain and Android Developing;
