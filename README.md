@@ -1,13 +1,9 @@
 
 ### Hi there, I'm Dima Simonyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br>
+<img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218"/>
 
-<img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218" />
-
-<br>
-
-📊 **Let's talk about personal stuffs:**
+<br>📊 **Let's talk about personal stuffs:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Blockchain and Android Developing;
 - 💬 Ask me about anything, I am happy to help;
