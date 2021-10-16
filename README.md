@@ -13,6 +13,16 @@
 <p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
 
 
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Blockchain and Android Developing;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: simadimonyan@gmail.com;
+<!-- - 📝 [Resume]().-->
+
+<hr>
+
+📈 **My GitHub Stats:**
+
 [![info](https://github-readme-stats.vercel.app/api?username=simadimonyan&show_icons=true&line_height=20&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simadimonyan&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
