@@ -3,7 +3,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218"/>
 
+<p>
 As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+</p>
 
 📊 **Let's talk about Personal Stuffs:**
 - 👨🏻‍💻 I’m currently working on something cool;
