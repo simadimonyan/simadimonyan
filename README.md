@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/master/code.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="408" height="318" />
 
 📊 **Let's talk about personal stuffs:**
 - 👨🏻‍💻 I’m currently working on something cool;
