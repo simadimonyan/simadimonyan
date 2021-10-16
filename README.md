@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simadimonyan&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simadimonyan&theme=vue&show_icons=true)
 
 
 
