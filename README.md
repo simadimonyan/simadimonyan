@@ -1,5 +1,4 @@
- 
-<h1 align="center">Hello World!</h1>
+<hr>
 
 <p>Hey, I'm Dima and here are a few things I'm working on:</p>
 
