@@ -1,4 +1,17 @@
-       Hey, I'm Dima. I'm a beginner Blockchain and Android developer 
+ 
+<h1 align="center">Hello World!</h1>
+
+<p>Hey, I'm Dima and here are a few things I'm working on:</p>
+
+<ul>
+  <li>Happy Coding</li>
+  <li>Blockchain Software Developing</li>
+  <li>Android Software Developing</li>
+</ul>
+
+<hr>
+
+<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
 
 
 [![info](https://github-readme-stats.vercel.app/api?username=simadimonyan&show_icons=true&line_height=20&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
