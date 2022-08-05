@@ -51,7 +51,6 @@
   <a href="">![Truffle](https://img.shields.io/badge/-Truffle-05122A?style=flat&logo=truffle)</a>
   <a href="">![Ganache](https://img.shields.io/badge/-Ganache-05122A?style=flat&logo=ganache)</a>
   <a href="">![web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=javascript)</a>
-  <a href="">![Truffle](https://img.shields.io/badge/-Truffle-05122A?style=flat&logo=truffle)</a>
   <a href="">![Open Zeppelin](https://img.shields.io/badge/-Open%20Zeppelin-05122A?style=flat&logo=open-zeppelin)</a>
 
 </div>
