@@ -46,8 +46,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simadimonyan&show_icons=true&line_height=20&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simadimonyan&layout=compact&langs_count=6&theme=vue-dark"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=simadimonyan&show_icons=true&line_height=20&theme=vue-dark"/>
+  <img height="138px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simadimonyan&layout=compact&langs_count=6&theme=vue-dark"/>
 </a>
 </p>
 
