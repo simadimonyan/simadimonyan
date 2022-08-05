@@ -1,5 +1,6 @@
 <!--https://shields.io/ - labels-->
-<!--https://dev.to/envoy_/150-badges-for-github-pnk#contact - labes -->
+<!--https://dev.to/envoy_/150-badges-for-github-pnk#contact - labels-->
+<!--https://home.aveek.io/GitHub-Profile-Badges/ - labels-->
 
 <img src="./assets/cover.jpg"/>
 
