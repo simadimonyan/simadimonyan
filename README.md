@@ -2,19 +2,18 @@
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#contact - labels-->
 <!--https://home.aveek.io/GitHub-Profile-Badges/ - labels-->
 
-<img src="./assets/cover.jpg"/>
+<img src="./assets/Method%20Draw%20Image.png"/>
 
 ### Hey there! I'm Dima <img src="./assets/Hand%20Wave.gif" width='30' align="left"/>
 
+<div>
 <img align="right" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218" align="right"/>
+<p>
+  
+</p>
+</div>
 
-<p>As a software and blockchain engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</p>
-
-📊&nbsp;**Let's talk about Personal Stuffs:**
-- 👨🏻‍💻&nbsp;I’m currently working on something cool;
-- 🚀&nbsp;I’m currently learning Blockchain and Android Developing;
-- 💬&nbsp;Ask me about anything, I am happy to help;
-<!-- - 📝 [Resume]().-->
+<br>
 
 ### 🛠&nbsp;Tech Stack
 <div align="center">
@@ -57,6 +56,6 @@
 
 <div align="center">
   <a href="mailto:simadimonyan@gmail.com"><img src="https://img.shields.io/badge/-simadimonyan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="./assets/bottom_header.svg"/>
+  <img src="./assets/bottom.svg"/>
 </div>
 
