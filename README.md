@@ -55,6 +55,6 @@
 
 <div align="center">
   <a href="mailto:simadimonyan@gmail.com"><img src="https://img.shields.io/badge/-simadimonyan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img src="./assets/bottom_header.svg"/>
 </div>
 
-<img src="./assets/bottom_header.svg"/>
