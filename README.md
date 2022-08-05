@@ -1,10 +1,5 @@
 
 ### Hi there, I'm Dima Simonyan! [](https://visitor-badge.glitch.me/badge?page_id=simadimonyan)
-<style>
-  .test {
-    background-color: red;
-  }
-</style>
 
 <div class="test">
   <img align="right" alt="GIF" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218"/>
