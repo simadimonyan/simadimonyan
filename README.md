@@ -2,7 +2,7 @@
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#contact - labels-->
 <!--https://home.aveek.io/GitHub-Profile-Badges/ - labels-->
 
-<img src="./assets/"/>
+<img src="./assets/index.svg"/>
 
 ### Hey there! I'm Dima <img src="./assets/Hand%20Wave.gif" width='30' align="left"/>
 
