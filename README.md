@@ -31,7 +31,7 @@
   
 </div>
 
-<div align="justify">
+<div align="center">
   
   <a href="">![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)</a>
   <a href="">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)</a>
@@ -40,18 +40,7 @@
   <a href="">![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)</a>
   <a href="">![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)</a>
   <a href="">![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)</a>
-  <a href="">![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)</a>
-  <a href="">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)</a>
-  <a href="">![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)</a>
-  <a href="">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)</a>
-  <a href="">![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)</a>
-  <a href="">![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij)</a>
   <a href="">![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)</a>
-  <a href="">![Hardhat](https://img.shields.io/badge/-Hard%20Hat-05122A?style=flat&logo=hard-hat)</a>
-  <a href="">![Truffle](https://img.shields.io/badge/-Truffle-05122A?style=flat&logo=truffle)</a>
-  <a href="">![Ganache](https://img.shields.io/badge/-Ganache-05122A?style=flat&logo=ganache)</a>
-  <a href="">![web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=javascript)</a>
-  <a href="">![Open Zeppelin](https://img.shields.io/badge/-Open%20Zeppelin-05122A?style=flat&logo=open-zeppelin)</a>
 
 </div>
 
