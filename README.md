@@ -4,16 +4,14 @@
 
 <img src="./assets/index.svg"/>
 
-### Hey there! I'm Dima <img src="./assets/Hand%20Wave.gif" width='30' align="left"/>
+### Hey there! I'm Dima<img src="./assets/Hand%20Wave.gif" width='30' align="left"/>
 
 <div>
 <img align="right" src="https://github.com/simadimonyan/simadimonyan/blob/master/code.gif?raw=true" width="308" height="218" align="right"/>
 <p>
-  
+  - As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 </p>
 </div>
-
-<br>
 
 ### 🛠&nbsp;Tech Stack
 <div align="center">
@@ -52,7 +50,7 @@
 </a>
 </p>
 
-### 🤝🏻&nbsp;Contact Me
+<!--### 🤝🏻&nbsp;Contact Me-->
 
 <div align="center">
   <a href="mailto:simadimonyan@gmail.com"><img src="https://img.shields.io/badge/-simadimonyan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
