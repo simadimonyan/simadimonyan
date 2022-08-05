@@ -2,7 +2,7 @@
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#contact - labels-->
 <!--https://home.aveek.io/GitHub-Profile-Badges/ - labels-->
 
-<img src="./assets/Method%20Draw%20Image.png"/>
+<img src="./assets/"/>
 
 ### Hey there! I'm Dima <img src="./assets/Hand%20Wave.gif" width='30' align="left"/>
 
@@ -56,6 +56,6 @@
 
 <div align="center">
   <a href="mailto:simadimonyan@gmail.com"><img src="https://img.shields.io/badge/-simadimonyan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="./assets/bottom.svg"/>
+  <img src="./assets/bottomx.svg"/>
 </div>
 
